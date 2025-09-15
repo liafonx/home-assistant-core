@@ -1,0 +1,14 @@
+{
+  "domain": "hello_world",
+  "name": "hello",
+  "codeowners": ["@yinong"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/hello_world",
+  "homekit": {},
+  "iot_class": "local_push",
+  "quality_scale": "bronze",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
